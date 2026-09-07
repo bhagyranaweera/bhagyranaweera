@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagya Ranaweera</h1>
-<h3 align="center">🚀 Cybersecurity Undergraduate | Skill Seeker | Digital Explorer 🔐</h3>
+<h3 align="center">🚀 Cybersecurity Graduated | Skill Seeker | Digital Explorer 🔐</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Undergraduate;Passionate+Tech+Learner;Always+Exploring+New+Frameworks;Call+me+Bhagy+😄" alt="Typing Animation" />
